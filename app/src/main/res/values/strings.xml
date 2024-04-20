@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CCTQ</string>
+    <string name="title_activity_prestador_servicio_composable">PrestadorServicioComposable</string>
+    <string name="subtotal">Subtotal:</string>
+</resources>
