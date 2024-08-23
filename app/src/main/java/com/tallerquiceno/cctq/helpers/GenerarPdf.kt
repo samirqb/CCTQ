@@ -118,7 +118,7 @@ class GenerarPdf(
 
         /** LABELS DATOS RECEPTOR DEL SERVICIO **/
         /** LABEL - FECHA Y HORA DEL REPORTE **/
-        var titulo_datos_cliente = "Datos del Clente "
+        var titulo_datos_cliente = "Datos del Cliente "
         eje_x = 43F
         eje_y = 200F
         contentPag.drawText(titulo_datos_cliente,eje_x,eje_y,set_string)

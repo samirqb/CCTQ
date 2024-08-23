@@ -311,6 +311,4 @@ class MainViewModel: ViewModel() {
             pdf.generar()
         }
     }
-
-
 }
